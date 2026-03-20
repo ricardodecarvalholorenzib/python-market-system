@@ -1,3 +1,3 @@
 # python-market-system
-Português BR: Sistema de gerenciamento de mercado feito em Python - Versão 0.0.5. Última atualização: 15/03/2026.
-English US: Market management system built in Python - Version 0.0.5. Last update: 03/15/2026
+Português BR: Sistema de gerenciamento de mercado feito em Python - Versão 1.0. Última atualização: 20/03/2026.
+English US: Market management system built in Python - Version 1.0. Last update: 03/20/2026
